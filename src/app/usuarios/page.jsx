@@ -12,7 +12,7 @@ export default function Usuarios(){
             <Header></Header>
             <h1 className="titulo">Página de usuários</h1>
             <div className="input">
-                <button id="limiter" onClick={} ></button>
+                <button id="limiter" ></button>
             </div>
             <Users></Users>
             <Footer></Footer>
