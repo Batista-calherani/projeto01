@@ -1,0 +1,28 @@
+main {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightblue;
+    padding: 30px;
+}
+
+form label {
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+table {
+    display: grid;
+}
+
+tr {
+    display: grid;
+}
+.inputs{
+    display: grid;
+    text-align: start;
+}

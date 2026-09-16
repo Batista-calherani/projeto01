@@ -1,0 +1,13 @@
+.card-warp {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: #e512121a;
+    color: white;
+}
+.card-warp img{
+    height: auto;
+    width: 300px;
+}

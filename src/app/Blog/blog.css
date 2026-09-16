@@ -1,0 +1,12 @@
+.card-conteiner{
+    display: grid;
+    grid-template-columns: repeat(2, 38.5rem);
+    margin: auto;
+    gap: 40px;
+    margin-bottom: 20px;
+    width: auto;
+}
+.titulo{
+    text-align: center;
+    width: 100%;
+}

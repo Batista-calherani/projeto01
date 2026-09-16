@@ -1,0 +1,8 @@
+.card-conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    width: 75vw;
+    margin: auto;
+    gap: 40px;
+    background-color: red;
+}

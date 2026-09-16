@@ -1,0 +1,26 @@
+footer{
+  display: grid;
+  justify-content: stretch;
+  margin-top: auto;
+  background-color: #c4170c;
+  padding: 15px;
+  z-index: 100;
+  color: white;
+}
+
+footer img{
+  width: auto;
+  height: 50px;
+}
+.box{
+  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.redes{
+  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
